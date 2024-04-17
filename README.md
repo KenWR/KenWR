@@ -15,10 +15,11 @@
 | Disk seek                          | 10,000,000   | 10,000 µs (10 ms)   | 20x datacenter roundtrip                 |
 | Send packet CA->Netherlands->CA    | 150,000,000  | 150,000 µs (150 ms) |                                          |
 
+   
 **Notes**
-1 ns = 10^-9 seconds
-1 µs = 10^-6 seconds = 1,000 ns
-1 ms = 10^-3 seconds = 1,000 µs = 1,000,000 ns
+1 ns = 10^-9 seconds   
+1 µs = 10^-6 seconds = 1,000 ns   
+1 ms = 10^-3 seconds = 1,000 µs = 1,000,000 ns   
 
 <!--
 **KenWR/KenWR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
