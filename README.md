@@ -1,6 +1,28 @@
-![](https://leetcard.jacoblin.cool/jiwojung?ext=contest)
+## Github
+
+<a href="https://github.com/KenWR">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KenWR" />
+</a>   
+
+
+<a href="https://github.com/KenWR">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KenWR&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+## Tech Stack
+
+
+
+
+## Algorithm badge
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwojung)](https://solved.ac/jiwojung)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwojung)](https://solved.ac/jiwojung)   
+
+![](https://leetcard.jacoblin.cool/jiwojung?ext=contest)   
+
+## Latency numbers every programmer should know
 
 | Operation                          | Latency (ns) | Latency (µs/ms)     | Comparison                               |
 | ---------------------------------- | ------------ | ------------------- | ---------------------------------------- |
@@ -25,17 +47,6 @@
 1 µs = 10^-6 seconds = 1,000 ns   
 1 ms = 10^-3 seconds = 1,000 µs = 1,000,000 ns   
 
-<!--
-**KenWR/KenWR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <img src="{BadgeURLHere}" />       ![image]({BadgeURLHere}) -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
