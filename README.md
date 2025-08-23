@@ -1,6 +1,6 @@
 ![](https://leetcard.jacoblin.cool/jiwojung?ext=contest)
 [![Solved.ac
-jiwojung](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jiwojung})](https://solved.ac/{jiwojung})
 
 | Operation                          | Latency (ns) | Latency (µs/ms)     | Comparison                               |
 | ---------------------------------- | ------------ | ------------------- | ---------------------------------------- |
