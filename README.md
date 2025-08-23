@@ -1,3 +1,5 @@
+![Leetcode Stats](https://leetcard.jacoblin.cool/jiwojung)
+
 | Operation                          | Latency (ns) | Latency (µs/ms)     | Comparison                               |
 | ---------------------------------- | ------------ | ------------------- | ---------------------------------------- |
 | L1 cache reference                 | 0.5          |                     |                                          |
