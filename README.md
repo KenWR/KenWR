@@ -1,4 +1,4 @@
-![](https://leetcard.jacoblin.cool/jiwojung?ext=contest)
+![](https://leetcard.jacoblin.cool/jiwojung?ext=activity)
 
 | Operation                          | Latency (ns) | Latency (µs/ms)     | Comparison                               |
 | ---------------------------------- | ------------ | ------------------- | ---------------------------------------- |
