@@ -1,12 +1,12 @@
 ## Github
 
 <a href="https://github.com/KenWR">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KenWR" />
+  <img height=200 align="center" src="https://github-readme-stats-delta-mauve.vercel.app/api?username=KenWR" />
 </a>   
 
 
 <a href="https://github.com/KenWR">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KenWR&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-delta-mauve.vercel.app/api/top-langs?username=KenWR&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
