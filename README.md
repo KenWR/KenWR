@@ -1,26 +1,40 @@
-## Github
-
-<a href="https://github.com/KenWR">
-  <img height=200 align="center" src="https://github-readme-stats-delta-mauve.vercel.app/api?username=KenWR" />
-</a>   
-
-
-<a href="https://github.com/KenWR">
-  <img height=200 align="center" src="https://github-readme-stats-delta-mauve.vercel.app/api/top-langs?username=KenWR&layout=compact&langs_count=8&card_width=320" />
+<a href="https://kenneth72.tistory.com/" target="_blank" rel="noopenner noreferrer">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Blog-%23A07DC4?style=for-the-badge&logo=tistory">
 </a>
 
+<!-- 
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=KenWR)](https://solved.ac/KenWR)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenWR&langs_count=6&layout=compact)](https://github.com/KenWR/KenWR)
+</div>
+-->
+<div>
+<a href="https://github.com/KenWR/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWR&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
+</a>
+<a href="https://github.com/KenWR/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=KenWR&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+</div>
 
-## Tech Stack
+<div>
+<a href="https://github.com/KenWR/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenWR&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+</div>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-
-## Algorithm badge
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiwojung)](https://solved.ac/jiwojung)   
-
-![](https://leetcard.jacoblin.cool/jiwojung?ext=contest)   
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
+</div>
 
 ## Latency numbers every programmer should know
 
