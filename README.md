@@ -1,13 +1,9 @@
+## Status
+
 <a href="https://kenneth72.tistory.com/" target="_blank" rel="noopenner noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/Blog-%23A07DC4?style=for-the-badge&logo=tistory">
 </a>
 
-<!-- 
-<div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=KenWR)](https://solved.ac/KenWR)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenWR&langs_count=6&layout=compact)](https://github.com/KenWR/KenWR)
-</div>
--->
 <div>
 <a href="https://github.com/KenWR/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenWR&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
@@ -35,6 +31,13 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
   <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
 </div>
+
+## Algorithm
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jiwojung?theme=dark&font=Rubik&ext=activity) 
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kenwhoyouwillknow)](https://solved.ac/kenwhoyouwillknow) -->
+
 
 ## Latency numbers every programmer should know
 
