@@ -1,4 +1,4 @@
-## Status
+## 📈 Status
 
 <a href="https://kenneth72.tistory.com/" target="_blank" rel="noopenner noreferrer">
   <img alt="Static Badge" src="https://img.shields.io/badge/Blog-%23A07DC4?style=for-the-badge&logo=tistory">
@@ -15,25 +15,35 @@
 </a>
 </div>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+---
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## 🛠 Technologies
 
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
-</div>
+**Languages**
 
-## Algorithm
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Game Engines & Networking**
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine 5](https://img.shields.io/badge/unrealengine5-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![FishNet](https://img.shields.io/badge/FishNet-%23326CE5.svg?style=for-the-badge&logo=airplay&logoColor=white)
+
+**Platforms & Tools**
+
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Education**
+
+<img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">
+
+---
+
+## 🧠 Algorithm
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jiwojung?theme=dark&font=Rubik&ext=activity) 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kenwhoyouwillknow)](https://solved.ac/kenwhoyouwillknow) -->
 
+---
 
 ## Latency numbers every programmer should know
 
