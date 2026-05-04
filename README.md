@@ -29,7 +29,7 @@
 
 **Platforms & Tools**
 
-![Meta Quest](https://img.shields.io/badge/Meta%20Quest-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vosk](https://img.shields.io/badge/Vosk-4CAF50.svg?style=for-the-badge&logoColor=white)
 
 **Education**
 
